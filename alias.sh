@@ -1,4 +1,5 @@
 # Others
+
 alias src='source $HOME/.bashrc' # Reload .bashrc file
 alias editAliases='editor $HOME/.shell/alias.sh'
 
